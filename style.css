@@ -139,6 +139,11 @@ form label, form legend{
     transform: scale(1.05);
 }
 
+main table{
+    width: auto;
+    margin: 2em auto;
+}
+
 table{
     margin: 40px 40px;
 }
